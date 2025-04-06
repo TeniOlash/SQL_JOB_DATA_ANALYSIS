@@ -39,3 +39,10 @@ HAVING COUNT(skills_to_job.job_id) > 25
 ORDER BY avg_yr_sal DESC,
     skill_count DESC
 LIMIT 25
+    /*
+     INSIGHTS
+     Python and SQL remain foundational—widely used and well-paid.
+     
+     Snowflake, Looker, and Azure are less common but very lucrative, suggesting a strong edge if you're certified or experienced in them.
+     
+     Visualization tools like Tableau and Looker also carry weight in both salary and demand.*/
